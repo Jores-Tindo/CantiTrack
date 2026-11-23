@@ -29,8 +29,8 @@ CantiTrack/
 
 * **Mobile :** Flutter, Dart
 * **Backend :** Java, Spring Boot, Spring Security, JPA/Hibernate
-* **Web Dashboard :** HTML5, CSS3, JavaScript (Vanilla)
-* **Base de données :** MySQL / PostgreSQL *(à adapter selon ta configuration)*
+* **Web Dashboard :** HTML5, CSS3, JavaScript
+* **Base de données :** SQLite / PostgreSQL 
 
 ---
 
