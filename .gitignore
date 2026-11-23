@@ -1,0 +1,13 @@
+# Éditeurs (VS Code, IntelliJ, Android Studio)
+.vscode/
+.idea/
+*.iml
+
+# Fichiers sensibles & environnement
+.env
+*.env
+
+# Système Ubuntu / Linux
+*~
+.fuse_hidden*
+.Trash-*
